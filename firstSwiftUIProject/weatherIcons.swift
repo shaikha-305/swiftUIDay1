@@ -72,8 +72,6 @@ struct TemperaturesModifier: ViewModifier {
     func body(content: Content) -> some View {
         content
             .foregroundColor(.white)
-//            .font(.custom("Avenir Light", size: 15))
-//            .font(.weight: .bold)
         .font(.system(size: 17, weight: .bold, design: .default))
         
     }
@@ -90,7 +88,7 @@ struct LowestTempModifier: ViewModifier{
     func body(content: Content) -> some View {
         content
         .foregroundColor(Color.init(#colorLiteral(red: 0.501960814, green: 0.501960814, blue: 0.501960814, alpha: 1)))
-//            .foregroundColor(.white)
+            .foregroundColor(.white)
             .font(.system(size: 16, weight: .light, design: .default))
     }
 }

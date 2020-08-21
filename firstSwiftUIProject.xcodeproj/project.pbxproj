@@ -10,6 +10,8 @@
 		1F3489A124EED99300EAF56F /* athkar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F3489A024EED99300EAF56F /* athkar.swift */; };
 		1F3489A324EEE0B000EAF56F /* modifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F3489A224EEE0B000EAF56F /* modifier.swift */; };
 		1F3489A724EF06C600EAF56F /* ModifiersExercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F3489A624EF06C600EAF56F /* ModifiersExercise.swift */; };
+		1F9AFC7424EFF5AF005A6F1F /* prayersAppAssignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F9AFC7324EFF5AF005A6F1F /* prayersAppAssignment.swift */; };
+		1F9AFC7624EFFCFE005A6F1F /* prayerAppModifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F9AFC7524EFFCFE005A6F1F /* prayerAppModifiers.swift */; };
 		1FDC7EC324EC1CC9009B1C2A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FDC7EC224EC1CC9009B1C2A /* AppDelegate.swift */; };
 		1FDC7EC524EC1CC9009B1C2A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FDC7EC424EC1CC9009B1C2A /* SceneDelegate.swift */; };
 		1FDC7EC724EC1CC9009B1C2A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FDC7EC624EC1CC9009B1C2A /* ContentView.swift */; };
@@ -45,6 +47,8 @@
 		1F3489A024EED99300EAF56F /* athkar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = athkar.swift; sourceTree = "<group>"; };
 		1F3489A224EEE0B000EAF56F /* modifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = modifier.swift; sourceTree = "<group>"; };
 		1F3489A624EF06C600EAF56F /* ModifiersExercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModifiersExercise.swift; sourceTree = "<group>"; };
+		1F9AFC7324EFF5AF005A6F1F /* prayersAppAssignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = prayersAppAssignment.swift; sourceTree = "<group>"; };
+		1F9AFC7524EFFCFE005A6F1F /* prayerAppModifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = prayerAppModifiers.swift; sourceTree = "<group>"; };
 		1FDC7EBF24EC1CC9009B1C2A /* firstSwiftUIProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = firstSwiftUIProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FDC7EC224EC1CC9009B1C2A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1FDC7EC424EC1CC9009B1C2A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -123,6 +127,8 @@
 				1F3489A224EEE0B000EAF56F /* modifier.swift */,
 				1FFB578424EF0E9E00092C44 /* weatherAppAssignment.swift */,
 				1FFB578624EF14BC00092C44 /* weatherIcons.swift */,
+				1F9AFC7324EFF5AF005A6F1F /* prayersAppAssignment.swift */,
+				1F9AFC7524EFFCFE005A6F1F /* prayerAppModifiers.swift */,
 				1FDC7EC824EC1CCB009B1C2A /* Assets.xcassets */,
 				1FDC7ECD24EC1CCB009B1C2A /* LaunchScreen.storyboard */,
 				1FDC7ED024EC1CCC009B1C2A /* Info.plist */,
@@ -290,8 +296,10 @@
 			files = (
 				1F3489A324EEE0B000EAF56F /* modifier.swift in Sources */,
 				1FFB578524EF0E9E00092C44 /* weatherAppAssignment.swift in Sources */,
+				1F9AFC7424EFF5AF005A6F1F /* prayersAppAssignment.swift in Sources */,
 				1F3489A124EED99300EAF56F /* athkar.swift in Sources */,
 				1FDC7EF324EC3E24009B1C2A /* cw2.swift in Sources */,
+				1F9AFC7624EFFCFE005A6F1F /* prayerAppModifiers.swift in Sources */,
 				1FDC7EC324EC1CC9009B1C2A /* AppDelegate.swift in Sources */,
 				1FFB578724EF14BC00092C44 /* weatherIcons.swift in Sources */,
 				1F3489A724EF06C600EAF56F /* ModifiersExercise.swift in Sources */,
