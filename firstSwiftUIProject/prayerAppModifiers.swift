@@ -19,11 +19,4 @@ struct DateModifier: ViewModifier {
     }
 }
 
-// Backgrounds colors
-let blue = Color.blue.opacity(0.5)
-let yellow = Color.yellow.opacity(0.5)
-//let red = Color.red.opacity(0.5)
-let purple = Color.purple.opacity(0.5)
-let green = Color.green.opacity(0.5)
-let orange = Color.orange.opacity(0.5)
-let pink = Color.pink.opacity(0.5)
+
