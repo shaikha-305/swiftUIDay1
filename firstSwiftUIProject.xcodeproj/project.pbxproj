@@ -20,6 +20,8 @@
 		1FDC7EE524EC1CCC009B1C2A /* firstSwiftUIProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FDC7EE424EC1CCC009B1C2A /* firstSwiftUIProjectUITests.swift */; };
 		1FDC7EF324EC3E24009B1C2A /* cw2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FDC7EF224EC3E24009B1C2A /* cw2.swift */; };
 		1FDC7EF524EED5B0009B1C2A /* CW3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FDC7EF424EED5B0009B1C2A /* CW3.swift */; };
+		1FFB578524EF0E9E00092C44 /* weatherAppAssignment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FFB578424EF0E9E00092C44 /* weatherAppAssignment.swift */; };
+		1FFB578724EF14BC00092C44 /* weatherIcons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FFB578624EF14BC00092C44 /* weatherIcons.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +61,8 @@
 		1FDC7EE624EC1CCC009B1C2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1FDC7EF224EC3E24009B1C2A /* cw2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cw2.swift; sourceTree = "<group>"; };
 		1FDC7EF424EED5B0009B1C2A /* CW3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CW3.swift; sourceTree = "<group>"; };
+		1FFB578424EF0E9E00092C44 /* weatherAppAssignment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weatherAppAssignment.swift; sourceTree = "<group>"; };
+		1FFB578624EF14BC00092C44 /* weatherIcons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weatherIcons.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +121,8 @@
 				1FDC7EF224EC3E24009B1C2A /* cw2.swift */,
 				1FDC7EF424EED5B0009B1C2A /* CW3.swift */,
 				1F3489A224EEE0B000EAF56F /* modifier.swift */,
+				1FFB578424EF0E9E00092C44 /* weatherAppAssignment.swift */,
+				1FFB578624EF14BC00092C44 /* weatherIcons.swift */,
 				1FDC7EC824EC1CCB009B1C2A /* Assets.xcassets */,
 				1FDC7ECD24EC1CCB009B1C2A /* LaunchScreen.storyboard */,
 				1FDC7ED024EC1CCC009B1C2A /* Info.plist */,
@@ -283,9 +289,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				1F3489A324EEE0B000EAF56F /* modifier.swift in Sources */,
+				1FFB578524EF0E9E00092C44 /* weatherAppAssignment.swift in Sources */,
 				1F3489A124EED99300EAF56F /* athkar.swift in Sources */,
 				1FDC7EF324EC3E24009B1C2A /* cw2.swift in Sources */,
 				1FDC7EC324EC1CC9009B1C2A /* AppDelegate.swift in Sources */,
+				1FFB578724EF14BC00092C44 /* weatherIcons.swift in Sources */,
 				1F3489A724EF06C600EAF56F /* ModifiersExercise.swift in Sources */,
 				1FDC7EF524EED5B0009B1C2A /* CW3.swift in Sources */,
 				1FDC7EC524EC1CC9009B1C2A /* SceneDelegate.swift in Sources */,
